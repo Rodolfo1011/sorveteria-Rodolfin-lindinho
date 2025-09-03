@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: #4e342e;
+  background: #ce2323;
   color: white;
   padding: 10px 0;
 }
@@ -111,7 +111,7 @@ nav a {
 }
 
 footer {
-  background: #3e2723;
+  background: #ff2600;
   color: white;
   text-align: center;
   padding: 20px 0;
